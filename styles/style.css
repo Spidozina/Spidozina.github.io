@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    padding: 5px 5px;
+}
+#sas {
+    color: yellowgreen;
+}
+html {
+    font-family: Comfortaa;
+    background-color: #D4BB59;
+}
+body {
+    width: 55%;
+    margin: 0 auto;
+    background-color: #877739;
+    padding: 0 20px 20px 20px;
+
+  }
+  .center {
+      display: block;
+      margin: 10px auto;
+      border: 3px solid black;
+      padding: 5px;
+      background-color: #c4a258;
+      /*align-content: center;*/
+  }
+  .fontStyle {
+      text-align: center;
+      color: rgb(66, 66, 66);
+      font-style: italic;
+      margin: 0px auto 30px auto;
+  }
+  #box1 {
+      padding: 40px;
+      background-color: tomato;
+      border: 5px inset rgb(4, 110, 139);
+      margin: 5% 20%;
+      text-shadow: 3px 3px 15px teal;
+  }
